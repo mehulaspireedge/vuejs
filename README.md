@@ -1,4 +1,4 @@
-# demovue
+# VUE JS
 
 ## Project setup
 ```
